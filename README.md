@@ -1,5 +1,7 @@
 # Script for NAS setup on Raspberry Pi 5
 
+![NAS OLED status display](oled.png)
+
 ```
 $ sudo apt update
 $ sudo apt full-upgrade
